@@ -1,0 +1,50 @@
+C:\ITLA 2024 C2\PRG 1 SC08\PSC09\PSC09\bin\Debug\PSC09.exe.config
+C:\ITLA 2024 C2\PRG 1 SC08\PSC09\PSC09\bin\Debug\PSC09.exe
+C:\ITLA 2024 C2\PRG 1 SC08\PSC09\PSC09\bin\Debug\PSC09.pdb
+C:\ITLA 2024 C2\PRG 1 SC08\PSC09\PSC09\obj\Debug\PSC09.csproj.AssemblyReference.cache
+C:\ITLA 2024 C2\PRG 1 SC08\PSC09\PSC09\obj\Debug\PSC09.Properties.Resources.resources
+C:\ITLA 2024 C2\PRG 1 SC08\PSC09\PSC09\obj\Debug\PSC09.csproj.GenerateResource.cache
+C:\ITLA 2024 C2\PRG 1 SC08\PSC09\PSC09\obj\Debug\PSC09.csproj.CoreCompileInputs.cache
+C:\ITLA 2024 C2\PRG 1 SC08\PSC09\PSC09\obj\Debug\PSC09.exe
+C:\ITLA 2024 C2\PRG 1 SC08\PSC09\PSC09\obj\Debug\PSC09.pdb
+C:\ITLA 2024 C2\PRG 1 SC08\PSC09\PSC09\obj\Debug\PSC09.frmStarts.resources
+C:\ITLA 2024 C2\PRG 1 SC 09\PSC09\PSC09\bin\Debug\PSC09.exe.config
+C:\ITLA 2024 C2\PRG 1 SC 09\PSC09\PSC09\bin\Debug\PSC09.exe
+C:\ITLA 2024 C2\PRG 1 SC 09\PSC09\PSC09\bin\Debug\PSC09.pdb
+C:\ITLA 2024 C2\PRG 1 SC 09\PSC09\PSC09\obj\Debug\PSC09.csproj.AssemblyReference.cache
+C:\ITLA 2024 C2\PRG 1 SC 09\PSC09\PSC09\obj\Debug\PSC09.frmMenu.resources
+C:\ITLA 2024 C2\PRG 1 SC 09\PSC09\PSC09\obj\Debug\PSC09.frmStarts.resources
+C:\ITLA 2024 C2\PRG 1 SC 09\PSC09\PSC09\obj\Debug\PSC09.Properties.Resources.resources
+C:\ITLA 2024 C2\PRG 1 SC 09\PSC09\PSC09\obj\Debug\PSC09.csproj.GenerateResource.cache
+C:\ITLA 2024 C2\PRG 1 SC 09\PSC09\PSC09\obj\Debug\PSC09.csproj.CoreCompileInputs.cache
+C:\ITLA 2024 C2\PRG 1 SC 09\PSC09\PSC09\obj\Debug\PSC09.exe
+C:\ITLA 2024 C2\PRG 1 SC 09\PSC09\PSC09\obj\Debug\PSC09.pdb
+C:\ITLA 2024 C2\PRG 1 SC 09\PSC09\PSC09\obj\Debug\PSC09.frmUsuario.resources
+C:\ITLA 2024 C2\PRG 1 SC 09\PSC09\PSC09\obj\Debug\PSC09.Formularios.Menu.resources
+C:\Users\Bily Alvarez\Pictures\PSC09\PSC09\bin\Debug\PSC09.exe.config
+C:\Users\Bily Alvarez\Pictures\PSC09\PSC09\bin\Debug\PSC09.exe
+C:\Users\Bily Alvarez\Pictures\PSC09\PSC09\bin\Debug\PSC09.pdb
+C:\Users\Bily Alvarez\Pictures\PSC09\PSC09\obj\Debug\PSC09.csproj.AssemblyReference.cache
+C:\Users\Bily Alvarez\Pictures\PSC09\PSC09\obj\Debug\PSC09.frmMenu.resources
+C:\Users\Bily Alvarez\Pictures\PSC09\PSC09\obj\Debug\PSC09.frmStarts.resources
+C:\Users\Bily Alvarez\Pictures\PSC09\PSC09\obj\Debug\PSC09.frmUsuario.resources
+C:\Users\Bily Alvarez\Pictures\PSC09\PSC09\obj\Debug\PSC09.Formularios.Menu.resources
+C:\Users\Bily Alvarez\Pictures\PSC09\PSC09\obj\Debug\PSC09.Properties.Resources.resources
+C:\Users\Bily Alvarez\Pictures\PSC09\PSC09\obj\Debug\PSC09.csproj.GenerateResource.cache
+C:\Users\Bily Alvarez\Pictures\PSC09\PSC09\obj\Debug\PSC09.csproj.CoreCompileInputs.cache
+C:\Users\Bily Alvarez\Pictures\PSC09\PSC09\obj\Debug\PSC09.exe
+C:\Users\Bily Alvarez\Pictures\PSC09\PSC09\obj\Debug\PSC09.pdb
+C:\Users\Bily Alvarez\Desktop\PSC09\PSC09\PSC09\bin\Debug\PSC09.exe.config
+C:\Users\Bily Alvarez\Desktop\PSC09\PSC09\PSC09\bin\Debug\PSC09.exe
+C:\Users\Bily Alvarez\Desktop\PSC09\PSC09\PSC09\bin\Debug\PSC09.pdb
+C:\Users\Bily Alvarez\Desktop\PSC09\PSC09\PSC09\obj\Debug\PSC09.csproj.AssemblyReference.cache
+C:\Users\Bily Alvarez\Desktop\PSC09\PSC09\PSC09\obj\Debug\PSC09.frmMenu.resources
+C:\Users\Bily Alvarez\Desktop\PSC09\PSC09\PSC09\obj\Debug\PSC09.frmPuesto.resources
+C:\Users\Bily Alvarez\Desktop\PSC09\PSC09\PSC09\obj\Debug\PSC09.frmStarts.resources
+C:\Users\Bily Alvarez\Desktop\PSC09\PSC09\PSC09\obj\Debug\PSC09.frmUsuario.resources
+C:\Users\Bily Alvarez\Desktop\PSC09\PSC09\PSC09\obj\Debug\PSC09.Formularios.Menu.resources
+C:\Users\Bily Alvarez\Desktop\PSC09\PSC09\PSC09\obj\Debug\PSC09.Properties.Resources.resources
+C:\Users\Bily Alvarez\Desktop\PSC09\PSC09\PSC09\obj\Debug\PSC09.csproj.GenerateResource.cache
+C:\Users\Bily Alvarez\Desktop\PSC09\PSC09\PSC09\obj\Debug\PSC09.csproj.CoreCompileInputs.cache
+C:\Users\Bily Alvarez\Desktop\PSC09\PSC09\PSC09\obj\Debug\PSC09.exe
+C:\Users\Bily Alvarez\Desktop\PSC09\PSC09\PSC09\obj\Debug\PSC09.pdb
